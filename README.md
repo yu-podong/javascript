@@ -9,12 +9,13 @@
 Chapter 2. Preferences
 * Notion 정리본 : https://www.notion.so/JS-2-a4825de2b82a418bb26f9ef8645d58e1
 
-Chapter 3. Variable
+Chapter 3. Data type
 * Notion 정리본 : https://www.notion.so/JS-3-db0a1727e14a4d7c84c33cd6aa9c3268
 
-Chapter 4. Data type
+Chapter 4. Operators
+* Notion 정리본 : https://www.notion.so/JS-4-ec2e513e650a431386a6b5b28000264f
 
-Chapter 5. Operation
+Chapter 5. Function
 
 Chapter 6. Class
 
