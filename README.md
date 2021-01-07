@@ -25,6 +25,8 @@ Chapter 5. Function
 
 Chapter 6. Class
 
+- Notion 정리본 : https://www.notion.so/JS-6-Class-vs-Object-df493e5fdd164cafb0e604d8a9ea3c47
+
 Chapter 7. Object
 
 Chapter 8. Array
