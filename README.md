@@ -29,6 +29,8 @@ Chapter 6. Class
 
 Chapter 7. Object
 
+- Notion 정리본 : https://www.notion.so/JS-7-Object-e7c729bc20fd46efbdcf7b7045bbe135
+
 Chapter 8. Array
 
 Chapter 9. Array practice
