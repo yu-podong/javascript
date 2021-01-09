@@ -33,6 +33,8 @@ Chapter 7. Object
 
 Chapter 8. Array
 
+- Notion 정리본 : https://www.notion.so/JS-8-Array-bade6afd15664794bf6474580f758742
+
 Chapter 9. Array practice
 
 Chapter 10. JSON
