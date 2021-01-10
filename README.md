@@ -37,6 +37,8 @@ Chapter 8. Array
 
 Chapter 9. Array practice
 
+- Notion 정리본 : https://www.notion.so/JS-9-Array-APIs-006dfb1d6d7f4c399e2481cec78d2aeb
+
 Chapter 10. JSON
 
 Chapter 11. Callback
