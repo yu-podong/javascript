@@ -41,6 +41,8 @@ Chapter 9. Array practice
 
 Chapter 10. JSON
 
+- Notion 정리본 : https://www.notion.so/JS-10-JSON-b62ce4ae4eda4112af57896ed0b94d79
+
 Chapter 11. Callback
 
 Chapter 12. promise
