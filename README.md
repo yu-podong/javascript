@@ -49,4 +49,6 @@ Chapter 11. Callback
 
 Chapter 12. promise
 
+- Notion 정리본 : https://www.notion.so/JS-12-Promise-c5cea02e53964cd3800f2ca26d16a8e9
+
 Chapter 13. async & await
