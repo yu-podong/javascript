@@ -52,3 +52,5 @@ Chapter 12. promise
 - Notion 정리본 : https://www.notion.so/JS-12-Promise-c5cea02e53964cd3800f2ca26d16a8e9
 
 Chapter 13. async & await
+
+- Notion 정리본 : https://www.notion.so/JS-13-async-await-ace88b5fa6564742b297b4fba5e39fc3

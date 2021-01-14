@@ -26,6 +26,13 @@ class UserStorage {
       }, 1000);
     });
   }
+
+  // async version
+  async getUserWithRole(user, password) {
+    const id = await loginUser(user, password);
+    const role = await getRoles(id);
+    return role;
+  }
 }
 
 /* 
@@ -45,3 +52,9 @@ userStorage //
   .then(id => userStorage.getRoles(id))
   .then(user => alert(`Hello ${user.name}, you have a ${user.role} role`))
   .catch(console.log);
+
+// async version
+userStorage //
+  .getUserWithRole()
+  .catch(console.log)
+  .then(console.log);
